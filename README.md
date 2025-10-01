@@ -30,8 +30,8 @@ A standalone companion utility designed to assist PokeMMO players — my first p
 An AI-powered clothing and outfit app that creates a digital wardrobe of your closet, recommends outfits, and keeps track of what you wear. Hobby project with a mission: help people with a passion for fashion streamline their style, maximize their closet, and discover new looks effortlessly.
 
 #### [Archived](https://github.com/muphy09/ArchivedIOS)
-An IOS app designed to scan your physical photo library into your digital library with ease. Automatic background removal and easy bulk scanning of albums separate this app from other traditional scanning apps.
----
+**An IOS app designed to scan your physical photo library into your digital library with ease. Automatic background removal and easy bulk scanning of albums separate this app from other traditional scanning apps.
+**---
 
 ### 🕹️ Beyond Code
 
